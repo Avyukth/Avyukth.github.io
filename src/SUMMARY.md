@@ -4,7 +4,7 @@
 
 <!-- - [projects](./projects.md) -->
 
-- [experience](./experience.md)
+- [Experience](./experience.md)
 
 <!-- - [words](./words.md) -->
 

@@ -34,10 +34,11 @@
   - Created a dashboard to oversee the progress, estimations, and other aspects of internal projects.
   - Stack: JAVA, Adobe Flex.
 
-## :nerd_face: Preferred programming languages:
+## Preferred programming languages:
 
 ![Dancing Gopher](http://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif)
 <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="200" height="200"/>
+![Dancing rust](https://media.tenor.com/djaLJiqAxzIAAAAC/rust-lang-ferris.gif)
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="200" height="200">
 
 <!-- ### :zap: Recent Activity -->

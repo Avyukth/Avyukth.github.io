@@ -1,6 +1,13 @@
 [book]
-authors = ["Avyukth"]
+authors = ["Subhrajit"]
 language = "en"
 multilingual = false
 src = "src"
 title = "Subhrajit"
+
+
+[output.html]
+additional-css = ["custom.css"]
+
+[output.html.search]
+limit-results = 15

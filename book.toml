@@ -7,6 +7,8 @@ title = "Subhrajit"
 
 
 [output.html]
+default-theme = "macchiato"
+preferred-dark-theme = "macchiato"
 additional-css = [
   "src/css/extra.css",
   "./theme/catppuccin.css",
@@ -15,6 +17,7 @@ additional-css = [
 git-repository-icon = "fa-github"
 cname = "subhrajit.me"
 
+
 [output.html.search]
 limit-results = 15
 
@@ -22,3 +25,10 @@ limit-results = 15
 
 [preprocessor.catppuccin]
 assets_version = "0.2.1" # DO NOT EDIT: Managed by `mdbook-catppuccin install`
+
+[output.html.playground]
+editable = false
+
+[output.html.print]
+enable = true     # include support for printable output
+page-break = true # insert page-break after each chapter

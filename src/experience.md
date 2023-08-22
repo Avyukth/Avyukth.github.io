@@ -34,6 +34,56 @@
   - Created a dashboard to oversee the progress, estimations, and other aspects of internal projects.
   - Stack: JAVA, Adobe Flex.
 
+# Experience Summary
+
+## Languages & Technologies
+
+- **Golang**: 2+ years
+- **Python**: 3+ years
+- **JavaScript**: 1+ year
+- **Rust**: 1+ year
+- **Postgres**: 4+ years
+- **MongoDB**: 1+ year
+- **Kubernetes**: 1+ year
+- **Docker**: 3+ years
+- **OpenAPI REST**: 4+ years
+- **gRPC**: 1+ year
+- **git/github** : 4+ years
+
+## Expertise Evaluation
+
+1. **Backend Development**
+
+   - Building a maintainable and scalable backend application.
+   - Implementing features such as logging, authentication, and tracing.
+   - Utilizing best practices with languages including:
+     - Golang
+     - Python
+     - JavaScript
+
+2. **Feature Development**
+
+   - Constructing a simple feature like a CRUD application.
+   - Proficiency in languages and tools including:
+     - Golang
+     - Python
+     - JavaScript
+     - Rust (Built tools/applications that enhance productivity.)
+
+3. **Large-Scale Applications**
+   - Handling vast industry-grade applications.
+   - Experience with the following technologies:
+     - Golang
+     - Python
+     - JavaScript
+     - git/github
+     - Postgres
+     - MongoDB
+     - Docker
+     - Kubernetes
+     - git workflow
+     - Argo workflow
+
 ## Preferred programming languages:
 
 ![Dancing Gopher](http://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif)

@@ -81,7 +81,7 @@
      - MongoDB
      - Docker
      - Kubernetes
-     - git workflow (CI/CD)
+     - git workflow ( CI / CD )
      - Terraform
      - Argo workflow
 

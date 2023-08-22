@@ -81,7 +81,8 @@
      - MongoDB
      - Docker
      - Kubernetes
-     - git workflow
+     - git workflow (CI/CD)
+     - Terraform
      - Argo workflow
 
 ## Preferred programming languages:

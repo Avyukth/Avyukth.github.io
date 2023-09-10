@@ -4,7 +4,7 @@
   [github](https://github.com/avyukth/)
 
 - 📫 How to reach me, drop an email at **makur[dot]subhrajit[at]gmail[dot]com**
-- What am I learning, documenting here: [pathshala.academy](https://www.blog.pathshala.academy/)
+- What am I learning, documenting here: [pathshala.academy](https://blog.pathshala.academy/)
 - [Twitter/X](https://twitter.com/subhrajitdotme)
 - [Linktree](https://linktr.ee/subhrajit.eth)
 - [Linkedin](https://www.linkedin.com/in/subhrajitmakur/)

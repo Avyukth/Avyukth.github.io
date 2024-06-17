@@ -1,4 +1,14 @@
+
 # Experience:
+
+- **SENIOR BACKEND DEVELOPER**
+  (Impact Analytics | NOV 2023 - Continue )
+
+ - Developed and implemented a variety of Key Performance Indicator (KPI) frameworks, and utilized Optimize way to
+effectively present them. This approach aids customers in forecasting their future sales with greater accuracy.
+ - Addressed issues with special characters encountered during the search process and report downloading. Enhanced
+the system for storing and retrieving input data in the database, ensuring accurate display and handling of the data.
+ - Built an Auto Scheduler to Schedule Product allocation, Assign to store and other required activities.
 
 - **SENIOR BACKEND DEVELOPER**
   (Tessell | NOV 2022 - APR 2023 )

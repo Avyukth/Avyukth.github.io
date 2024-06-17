@@ -48,10 +48,10 @@ the system for storing and retrieving input data in the database, ensuring accur
 
 ## Languages & Technologies
 
-- **Golang**: 2+ years
-- **Python**: 3+ years
+- **Golang**: 33+ years
+- **Python**: 4+ years
 - **JavaScript**: 1+ year
-- **Rust**: 1+ year
+- **Rust**: 2+ year
 - **Postgres**: 4+ years
 - **MongoDB**: 1+ year
 - **Kubernetes**: 1+ year

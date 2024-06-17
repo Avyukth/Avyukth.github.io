@@ -9,6 +9,7 @@ effectively present them. This approach aids customers in forecasting their futu
  - Addressed issues with special characters encountered during the search process and report downloading. Enhanced
 the system for storing and retrieving input data in the database, ensuring accurate display and handling of the data.
  - Built an Auto Scheduler to Schedule Product allocation, Assign to store and other required activities.
+ - Stack: Go, Python, openAPI, Docker, Kubernetes, PostgreSQL, Redis, and Bitbucket CI.
 
 - **SENIOR BACKEND DEVELOPER**
   (Tessell | NOV 2022 - APR 2023 )

@@ -1,10 +1,11 @@
+
 # About
 
 - 👨‍💻 All of my projects are available at
   [github](https://github.com/avyukth/)
 
 - 📫 How to reach me, drop an email at **makur[dot]subhrajit[at]gmail[dot]com**
-- What am I learning, documenting here: [pathshala.academy](https://blog.pathshala.academy/)
+- What am I learning, documenting here: [pathshala.dev](https://blog.pathshala.dev/)
 - [Twitter/X](https://twitter.com/subhrajitdotme)
 - [Linktree](https://linktr.ee/subhrajit.eth)
 - [Linkedin](https://www.linkedin.com/in/subhrajitmakur/)

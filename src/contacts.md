@@ -1,3 +1,4 @@
+
 # Say Hello
 
 ## Get Social
@@ -6,7 +7,7 @@ _This makes it official, right?_
 
 [:fa-github: GitHub](https://github.com/avyukth) |
 [fa-linkedin: LinkedIn](https://linkedin.com/in/subhrajitmakur) |
-[fa-twitter: Twitter](https://twitter.com/subhrajitdotmme) |
+[fa-twitter: Twitter](https://twitter.com/subhrajitdotme) |
 
 <!-- [:fa-medium: Medium](https://medium.com/@SeanDStewart) -->
 

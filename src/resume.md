@@ -1,6 +1,5 @@
 
 # Subhrajit Makur
-Bengaluru, India
 
 📞 +917384728292 | 📧 makur.subhrajit@gmail.com | 
 🔗 [LinkedIn](https://www.linkedin.com/in/subhrajitmakur/) | 🐙 [GitHub](http://github.com/avyukth) | 🌐 [subhrajit.me](https://subhrajit.me)

@@ -11,7 +11,6 @@ Senior Software Development Engineer with over 6 years of experience in designin
 
 
 ## Skills
-
 - **Languages:** Python, Go, JavaScript, Rust, Java, TypeScript, nodejs
 - **Tools:** Apache Kafka, Redis, PyTorch, Git, Kubernetes, Docker, Argo Workflow, MLflow, ML Pipeline, Pulumi
 - **Databases:** MongoDB, PostgreSQL, Redis
@@ -64,9 +63,9 @@ the system for storing and retrieving input data in the database, ensuring accur
 
 ## Education
 
-**Indian Institute of Technology** |  Master of Technology (CSE) | Jan 2017 - Jan 2019 | Chennai, India
+**Indian Institute of Technology** |  Master of Technology (CSE) | Jul 2017 - June 2019 | Chennai, India
 
-**Jadavpur University** | Bachelor of Engineering | Jul 2008 - Jun 2012 | Kolkata, India
+**Jadavpur University** | Bachelor of Engineering (CSE) | Jul 2008 - Jun 2012 | Kolkata, India
 
 
 ## Projects

@@ -1,5 +1,22 @@
 
-# Experience:
+# Subhrajit Makur
+Bengaluru, India
+
+📞 +917384728292 | 📧 makur.subhrajit@gmail.com | 
+🔗 [LinkedIn](https://www.linkedin.com/in/subhrajitmakur/) | 🐙 [GitHub](http://github.com/avyukth) | 🌐 [subhrajit.me](https://subhrajit.me)
+
+
+## Summary
+Senior Software Development Engineer with over 6 years of experience in designing and implementing scalable software solutions across various platforms. Efficient in backend development and micro-services architecture, with notable projects including a 10% enhancement in provisioning efficiency using Argo Workflow, and a 50% reduction in MongoDB server expenses through strategic optimizations. Adept in transforming complex workflows and enhancing system performance, ready to leverage extensive expertise to innovate and drive results as a Senior Software Engineer.
+
+
+## Skills
+
+- **Languages:** Python, Go, JavaScript, Rust, Java, TypeScript, nodejs
+- **Tools:** Apache Kafka, Redis, PyTorch, Git, Kubernetes, Docker, Argo Workflow, MLflow, ML Pipeline, Pulumi
+- **Databases:** MongoDB, PostgreSQL, Redis
+- **Technical:** Design Patterns, Web Development, Distributed Systems, Event-Driven Systems
+- **Cloud:** AWS, AWS lambda, AWS RDS, Route 53, API Gateway
 
 - **SENIOR BACKEND DEVELOPER**
   (Impact Analytics | NOV 2023 - Continue )
@@ -45,62 +62,29 @@ the system for storing and retrieving input data in the database, ensuring accur
   - Created a dashboard to oversee the progress, estimations, and other aspects of internal projects.
   - Stack: JAVA, Adobe Flex.
 
-# Experience Summary
+## Education
 
-## Languages & Technologies
+**Indian Institute of Technology** |  Master of Technology (CSE) | Jan 2017 - Jan 2019 | Chennai, India
 
-- **Golang**: 33+ years
-- **Python**: 4+ years
-- **JavaScript**: 1+ year
-- **Rust**: 2+ year
-- **Postgres**: 4+ years
-- **MongoDB**: 1+ year
-- **Kubernetes**: 1+ year
-- **Docker**: 3+ years
-- **OpenAPI REST**: 4+ years
-- **gRPC**: 1+ year
-- **git/github** : 4+ years
+**Jadavpur University** | Bachelor of Engineering | Jul 2008 - Jun 2012 | Kolkata, India
 
-## Expertise Evaluation
 
-1. **Backend Development**
+## Projects
 
-   - Building a maintainable and scalable backend application.
-   - Implementing features such as logging, authentication, and tracing.
-   - Utilizing best practices with languages including:
-     - Golang
-     - Python
-     - JavaScript
+**SlashGPT** | Oct 2023
+- Enable OpenAI's ChatGPT in web browsers
+- $250+ sales to 10+ customers
 
-2. **Feature Development**
+**Building Search app on Patent** | Jun - Oct 2023
+- U.S. patent search app with Golang micro-service
+- Focus on scalability, security, maintainability
 
-   - Constructing a simple feature like a CRUD application.
-   - Proficiency in languages and tools including:
-     - Golang
-     - Python
-     - JavaScript
-     - Rust (Built tools/applications that enhance productivity.)
+**Golang Micro-service Development** | Aug 2023
+- Robust Golang micro-service implementation
+- Best practices for scalability and security
 
-3. **Large-Scale Applications**
-   - Handling vast industry-grade applications.
-   - Experience with the following technologies:
-     - Golang
-     - Python
-     - JavaScript
-     - git/github
-     - Postgres
-     - MongoDB
-     - Docker
-     - Kubernetes
-     - git workflow ( CI / CD )
-     - Terraform
-     - Argo workflow
-
-## Preferred programming languages:
-
-![Dancing Gopher](http://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif)
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="200" height="200"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="200" height="200">
-![Dancing rust](https://media.tenor.com/djaLJiqAxzIAAAAC/rust-lang-ferris.gif)
+**gRPC Game Statistics Service** | Jul 2023
+- gRPC and Protocol Buffers for geographic insights
+- Docker for consistent deployment and scalability
 
 <!-- ### :zap: Recent Activity -->

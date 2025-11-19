@@ -27,21 +27,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Cache Rust toolchain
-        uses: actions/cache@v4
-        with:
-          path: ~/.cargo
-          key: rust-toolchain-${{ runner.os }}-${{ hashFiles('**/Cargo.lock') }}
-
-      - name: Cache mdBook
-        id: cache-mdbook
-        uses: actions/cache@v4
-        with:
-          path: ~/.cargo/bin/mdbook
-          key: mdbook-${{ env.MDBOOK_VERSION }}-v2
-
-      - name: Install Rust and mdBook if not cached
-        if: steps.cache-mdbook.outputs.cache-hit != 'true'
+      - name: Install Rust and mdBook
         run: |
           curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
           rustup update

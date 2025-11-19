@@ -34,10 +34,11 @@ jobs:
           key: rust-toolchain-${{ runner.os }}-${{ hashFiles('**/Cargo.lock') }}
 
       - name: Cache mdBook
+        id: cache-mdbook
         uses: actions/cache@v4
         with:
           path: ~/.cargo/bin/mdbook
-          key: mdbook-${{ env.MDBOOK_VERSION }}
+          key: mdbook-${{ env.MDBOOK_VERSION }}-v2
 
       - name: Install Rust and mdBook if not cached
         if: steps.cache-mdbook.outputs.cache-hit != 'true'

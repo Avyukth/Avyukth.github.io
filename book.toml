@@ -20,11 +20,6 @@ cname = "subhrajit.me"
 [output.html.search]
 limit-results = 15
 
-[preprocessor]
-
-[preprocessor.catppuccin]
-assets_version = "3.1.1" # DO NOT EDIT: Managed by `mdbook-catppuccin install`
-
 [output.html.playground]
 editable = false
 
